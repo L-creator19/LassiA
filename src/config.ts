@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Lasya Adusumilli",
+  name: "Lasya",
   title: "High School Student",
-  description: "Portfolio website of Lasya Adusumilli",
+  description: "Portfolio website of Lasya ",
   accentColor: "#1d4ed8",
   social: {
     email: "lasyaa19@gmail.com",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/L-creator19",
   },
   aboutMe:
-    "Lasya Adusumilli is a rising junior at Rouse High School who aspires to work in computer science or computer engineering. She is extremely passionate about coding and innovation. In her free time, she enjoys creating art and playing guitar and euphonium.",
+    "Lasya is a rising junior at High School who aspires to work in computer science or computer engineering. She is extremely passionate about coding and innovation. In her free time, she enjoys creating art and playing guitar and euphonium.",
   skills: ["Python", "C++", "Autodesk Inventor", "p5js"],
   projects: [
     {
@@ -74,11 +74,11 @@ export const siteConfig = {
   education: [
     {
       school: "Class of 2028",
-      degree: "Rouse High School",
+      degree: "High School",
       dateRange: "2024 - Present",
       achievements: [
         "Completed 3 AP courses and counting",
-        "Member of the Rouse High School Band",
+        "Member of High School Band",
         "Member of Girls Who Code Club",
         "Certified in Autodesk Inventor",
         "Obtained Rural and Small-Town Recognition Award from College Board",
