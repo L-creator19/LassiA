@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Portfolio website of Lasya ",
   accentColor: "#1d4ed8",
   social: {
-    email: "lasyaa19@gmail.com",
+    email: "",
     linkedin: "https://www.linkedin.com/in/lasya-a-297277422/",
     twitter: "",
     github: "https://github.com/L-creator19",
